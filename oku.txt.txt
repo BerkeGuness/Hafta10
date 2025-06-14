@@ -1,0 +1,7 @@
+Bu hafta, Python ile komut satırından parametre almayı ve bu parametreleri işleyerek anlamlı veriler üretmeyi öğrendik. Öğrendiklerimizi pekiştirmek amacıyla, bu yapıyı kullanan örnek bir Python kodu geliştirdik.
+
+
+
+
+
+
